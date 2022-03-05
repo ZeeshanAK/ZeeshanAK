@@ -1,14 +1,10 @@
-- 👋 Hi, I’m ZeeshanAK. Full-Stack Engineer working mostly in Microsoft Tech Stack with Angular and JQuery for frontend
+<h1 align="center">Hi 👋, I'm ZeeshanAK</h1>
+<h3 align="center">A passionate Full-Stack Engineer working mostly in Microsoft Tech Stack with Angular and JQuery for frontend</h3>
+
 - 👀 I’m interested in .NET Core, Angular and Flutter
 - 🌱 I’m currently learning Flutter
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/zeeshanak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeeshanak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zeeshanak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeeshanak" height="30" width="40" /></a>
-</p>
-
+</br>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -18,8 +14,19 @@
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 </p>
 
+</br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/zeeshanak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeeshanak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zeeshanak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeeshanak" height="30" width="40" /></a>
+</p>
+
+</br></br>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zeeshanak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zeeshanak" /></a></p><br><br>
+
+
 
 <!---
 ZeeshanAK/ZeeshanAK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
